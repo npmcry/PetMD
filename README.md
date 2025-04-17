@@ -45,16 +45,6 @@ This app allows users to:
     flutter run
     ```
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Commit your changes.
-4.  Push your branch to your forked repository.
-5.  Create a pull request.
-
 ## License
 
-[Add your license information here]
+Copyright (c) 2025 Thanh
