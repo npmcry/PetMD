@@ -190,8 +190,8 @@ class _AddEditMedicationScreenState extends State<AddEditMedicationScreen> {
                   style: ElevatedButton.styleFrom(
                     padding: const EdgeInsets.symmetric(vertical: 14), // Make button taller
                     minimumSize: const Size(double.infinity, 50), // Make button wide
-                    backgroundColor: Theme.of(context).colorScheme.primary,
-                    foregroundColor: Theme.of(context).colorScheme.onPrimary,
+                    backgroundColor: Colors.lightBlue[200], // Your desired pastel color
+                    foregroundColor: Colors.white, // Text color that contrasts well with primary
                   ),
                   child: Text(
                     _isEditing ? 'Update Medication' : 'Add Medication',
