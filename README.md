@@ -1,16 +1,60 @@
-# pet_med_tracker
+# PetMD Mobile App
 
-A new Flutter project.
+A mobile app for tracking pet medications and health logs.
+
+## Description
+
+This app allows users to:
+
+*   Track medication schedules for their pets (AM/PM).
+*   Log activities such as feeding and walks.
+*   View a history of logged events.
+*   Manage pet profiles and vet information.
+
+## Features
+
+*   User-friendly dashboard with clear visual cues.
+*   Customizable medication schedules.
+*   Detailed event logging.
+*   Profile management.
+
+## Technologies Used
+
+*   Flutter
+*   Dart
+*   Provider (for state management)
+*   Font Awesome Flutter (for icons)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1.  Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+    ```bash
+    git clone https://github.com/npmcry/PetMD.git
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.  Install dependencies:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    flutter pub get
+    ```
+
+3.  Run the app:
+
+    ```bash
+    flutter run
+    ```
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix.
+3.  Commit your changes.
+4.  Push your branch to your forked repository.
+5.  Create a pull request.
+
+## License
+
+[Add your license information here]
